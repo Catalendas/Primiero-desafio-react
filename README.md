@@ -11,6 +11,7 @@ Esse pequeno desafio foi proposto para insentivar e testar os conhecimentos
 
 # Layout principal do projeto
 
+Clicke na imagem para ver o gif funcionando
 ![primeiro desafio](https://user-images.githubusercontent.com/82763928/171045462-7664a1b3-805c-4857-99d3-b05f4e0097f7.gif)
 
 # Tecnologias utilizadas
