@@ -11,14 +11,16 @@ Esse pequeno desafio foi proposto para insentivar e testar os conhecimentos
 
 # Layout principal do projeto
 
-![Capturar](https://user-images.githubusercontent.com/82763928/157707465-15076a72-a3e3-4659-8437-753240827cd1.PNG)
+![primeiro desafio](https://user-images.githubusercontent.com/82763928/171045462-7664a1b3-805c-4857-99d3-b05f4e0097f7.gif)
 
 # Tecnologias utilizadas
 ## Front-end
 - ReactJs
+- TypeScript
+- HTML
+- CSS
 
 # Como executar o projeto
-## Back-end
 
 - É preciso clonar o Repositório.
 - É preciso ter instalado o yarn em sua maquina.
