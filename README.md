@@ -1,13 +1,13 @@
 # Desafio de introdução ao React Js
 
+![image](https://user-images.githubusercontent.com/82763928/171044085-3e08ac62-ebbc-458f-8ffa-32422ad71dce.png)
 
 # Sobre o Projeto
 
-Crud vagas de emprego
+Lista de ta
 
-O crud de PHP foi feito com o Objetivo de aplicar os conhecimentos que estou adquirindo sobre a lingugem, o projeto foi desenvolvido com o auxilio do canal [WDEV](https://www.youtube.com/c/WDEVoficial).
+Esse pequeno desafio foi proposto para insentivar e testar os conhecimentos
 
-O projeto contem login de usuario, logout de usuario, listagem de vagas de emprego, editar vaga, excluir vaga, filtro de vagas e paginação.
 
 # Layout principal do projeto
 
@@ -15,23 +15,16 @@ O projeto contem login de usuario, logout de usuario, listagem de vagas de empre
 
 # Tecnologias utilizadas
 ## Front-end
-- HTML
-- CSS
-- Bootstrap
-
-## Back-end
-- PHP
-- Mysql
+- ReactJs
 
 # Como executar o projeto
 ## Back-end
 
-- É preciso clonar o este repositório.
-- É preciso ter instalado em sua maquina o [XAMPP](https://xampp-windows.softonic.com.br/).
-- Tambem é preciso ter um bom SGBD como o [Mysql Workbench](https://www.mysql.com/products/workbench/).
-- Dentro do SGBD crie um banco de dados com o nome dev_empregos e duas tabelas, uma chamada usuarios e outra vagas.
- ![image](https://user-images.githubusercontent.com/82763928/157710959-85a76d04-5b34-4c25-a158-4032adaaa9b1.png) 
-![image](https://user-images.githubusercontent.com/82763928/157711236-1d1472df-d78d-4db0-955f-a9cdfff16d08.png)
+- É preciso clonar o Repositório.
+- É preciso ter instalado o yarn em sua maquina.
+- No terminal dentro da pasta rode o comando yarn e será executado.
+- Entre em http://localhost:8080/ elá estará o projeto.
+
 
 ## Front-end
 
